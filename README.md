@@ -7,6 +7,6 @@
 1. git init
 2. git add .
 3. git commit -m "message for commit"
-4. echo "some content" >> filename
+4. git push -u origin master
    
    
